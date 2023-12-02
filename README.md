@@ -10,7 +10,7 @@
 
 📧 You can reach me at: jaykumarjain07@gmail.com
 
-🔗 Connect with me on LinkedIn: https://www.linkedin.com/in/jay-kumarr-jain-590a80113/ 
+🔗 Connect with me on LinkedIn: https://www.linkedin.com/in/jay-kumar-jain-590a80113/ 
 
 📚 On a continuous quest for knowledge, I recently completed a Comprehensive Data Analyst course on the EdTech platform, SkilloVilla.
 
