@@ -17,3 +17,5 @@
 🎓 Completed my MBA in International Business & Finance from Birla Institute of Management Technology.
 
 👨‍💻 My GitHub repository is a treasure trove of projects and insights. Let's collaborate and create something remarkable!
+
+TABLEAU Sample Dashboard : https://public.tableau.com/app/profile/jay.jain8058/viz/MarketingCampaignDashboard_16870883493760/Dashboard12
