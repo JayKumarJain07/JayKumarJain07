@@ -1,6 +1,6 @@
 👋 Hi, I’m Jay Kumar Jain 
 
-🌍 I'm a dedicated Business Analyst currently working with Swiss Re in Bangalore, Karnataka.
+🌍 I'm a dedicated Business Analyst currently working with Myntra, Ex-Swiss Re, in Bangalore, Karnataka.
 
 📊 Certified in data analytics.
 
